@@ -8,7 +8,7 @@ authors = ["Hydro Project <jmh@berkeley.edu>"]
 python = "^3.10"
 fastapi = "^0.82.0"
 uvicorn = {extras = ["standard"], version = "^0.18.3"}
-cryptography = "^38.0.1"
+cryptography = "^42.0.0"
 docker = "^6.0.0"
 python-dotenv = "^0.21.0"
 boto3 = "^1.24.88"
