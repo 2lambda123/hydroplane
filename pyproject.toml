@@ -6,7 +6,7 @@ authors = ["Hydro Project <jmh@berkeley.edu>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-fastapi = "^0.82.0"
+fastapi = "^0.109.1"
 uvicorn = {extras = ["standard"], version = "^0.18.3"}
 cryptography = "^42.0.0"
 docker = "^6.0.0"
